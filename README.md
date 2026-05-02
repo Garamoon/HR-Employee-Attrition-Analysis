@@ -37,10 +37,10 @@ Using Excel, I performed data cleaning, exploratory data analysis (EDA), and bui
 ![Dashboard](images/dashboard.png)
 
 ### 🔹 Key KPIs
-- Total Employees: **237**  
-- Attrition Rate: **16.12%**  
-- Average Age: **34**  
-- Average Income: **$4,787**  
+- Total Employees
+- Attrition Rate
+- Average Age
+- Average Income 
 
 ### 🔹 Visual Insights
 - Attrition by Job Level  
