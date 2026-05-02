@@ -74,4 +74,4 @@ Delivered a complete HR analysis project transforming raw employee data into act
 ---
 
 ## 📁 Dataset
-- `HR_GR.xlsx`
+- `WA_Fn-UseC_-HR-Employee-Attrition.csv`
